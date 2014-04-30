@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6aade460-7014-4533-8587-9fb4871733fb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter4/src/lib_misc.erl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter4/src/lib_misc_tests.erl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chapter4/src/lib_misc.erl" afterPath="$PROJECT_DIR$/Chapter4/src/lib_misc.erl" />
     </list>
     <ignored path="ProgrammingErlang.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -50,21 +48,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="lib_misc.erl" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="lib_misc.erl" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Chapter4/src/lib_misc.erl">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
-              <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+            <state vertical-scroll-proportion="0.28076255" vertical-offset="0" max-vertical-offset="577">
+              <caret line="9" column="16" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="lib_misc_tests.erl" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="lib_misc_tests.erl" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter4/src/lib_misc_tests.erl">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.24956672" vertical-offset="0" max-vertical-offset="577">
-              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -88,8 +86,8 @@
         <option value="$PROJECT_DIR$/Chapter4/src/geometry.erl" />
         <option value="$PROJECT_DIR$/Chapter4/src/test_geometry.erl" />
         <option value="$PROJECT_DIR$/Chapter4/src/geometry_tests.erl" />
-        <option value="$PROJECT_DIR$/Chapter4/src/lib_misc.erl" />
         <option value="$PROJECT_DIR$/Chapter4/src/lib_misc_tests.erl" />
+        <option value="$PROJECT_DIR$/Chapter4/src/lib_misc.erl" />
       </list>
     </option>
   </component>
@@ -511,7 +509,7 @@
       <updated>1398288872285</updated>
       <workItem from="1398288875810" duration="2172000" />
       <workItem from="1398896972862" duration="10000" />
-      <workItem from="1398897003233" duration="3684000" />
+      <workItem from="1398897003233" duration="4413000" />
     </task>
     <task id="LOCAL-00001" summary="initial import of project files">
       <created>1398289065085</created>
@@ -525,7 +523,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5866000" />
+    <option name="totallyTimeSpent" value="6595000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="26" width="1922" height="1029" extended-state="6" />
@@ -599,18 +597,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter4/src/lib_misc.erl">
+    <entry file="file://$PROJECT_DIR$/Chapter4/src/lib_misc_tests.erl">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
-          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter4/src/lib_misc_tests.erl">
+    <entry file="file://$PROJECT_DIR$/Chapter4/src/lib_misc.erl">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24956672" vertical-offset="0" max-vertical-offset="577">
-          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.28076255" vertical-offset="0" max-vertical-offset="577">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="16" />
           <folding />
         </state>
       </provider>
