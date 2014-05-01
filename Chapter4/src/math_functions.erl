@@ -4,13 +4,13 @@
 even(Number) ->
   case Number rem 2 of
     0 -> true;
-    _ -> false
+    1 -> false
   end.
 
 odd(Number) ->
   case Number rem 2 of
     0 -> false;
-    _ -> true
+    1 -> true
   end.
 
 filter(_, []) ->
